@@ -1,5 +1,8 @@
 _repo: The-Music-of-Spain_63085
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63085-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Vechten, Carl
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31911
     wikipedia: http://en.wikipedia.org/wiki/Carl_Van_Vechten
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63085#The-Music-of-Spain
 gutenberg_issued: '2020-08-31'
 gutenberg_type: Text
 identifiers:
