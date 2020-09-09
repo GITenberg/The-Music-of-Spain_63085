@@ -1,0 +1,26 @@
+_repo: The-Music-of-Spain_63085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vetchen, Carl Van
+    - Vechten, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Van_Vechten
+description: ''
+gutenberg_issued: '2020-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Music of Spain
+url: http://www.gutenberg.org/ebooks/63085
